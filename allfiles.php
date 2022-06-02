@@ -173,7 +173,7 @@ class Model_Portfolio extends Model
 			array(
 				'Year' => '2012',
 				'Site' => 'http://DunkelBeer.ru',
-				'Description' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого в России пивоваренной компанией "CАН ИнБев".'
+				'Description' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого пивоваренной компанией "CАН ИнБев".'
 			),
 			array(
 				'Year' => '2012',
@@ -202,7 +202,7 @@ class Controller_Portfolio extends Controller
 <h1>Портфолио</h1>
 <p>
 <table>
-Все проекты в следующей таблице являются вымышленными, поэтому даже не пытайтесь перейти по приведенным ссылкам.
+
 <tr><td>Год</td><td>Проект</td><td>Описание</td></tr>
 <?php
 
